@@ -1,2 +1,0 @@
-# challenge01
-frontendmentor
