@@ -1,0 +1,93 @@
+body{
+  background-color:hsl(225, 100%, 94%);
+  font-family: 'Merriweather', serif;
+}
+h5{
+  position: relative;
+  top: 18px;
+  left: 10px;
+}
+img{
+  margin-top: -10px;
+  margin-left: -10px;
+  width: 100rem;
+  height:25rem;
+}
+.design{
+  background-color:#FEFBF6;
+  width:50rem;
+  height: 33rem;
+  text-align: center;
+  line-height: 30px;
+  max-width: 300px;
+  position: absolute;
+  left: 35rem;
+  top: 100px;
+  border-radius: 15px;
+  margin-bottom: 100px;
+  border: 100px;
+}
+.logo{
+  position: relative;
+  left:5px;
+  width: 300px;
+  height:150px;
+  border-radius: 15px 15px 0 0;
+}
+.charges{
+  position: relative;
+  left:25px;
+  width: 250px;
+  height:100px;
+  background-color:#F0EBE3;
+  border-radius: 10px;
+  line-height: 10px;
+}
+.ic{
+  height: 35px;
+  width: 35px;
+  margin-left: 10px;
+  position: absolute;
+  left: 10px;
+  bottom: 30px;
+}
+.pi{
+  position: relative;
+  left: -10px;
+  bottom: -30px;
+  font-family: 'Red Hat Display', sans-serif;
+}
+.po{
+  position:relative;
+  left: 80px;
+  font-family: 'Red Hat Display', sans-serif;
+  text-decoration: underline;
+}
+.btn {
+  position: relative;
+  top: 30px;
+  background: #06168f;
+  background-image: -webkit-linear-gradient(top, #06168f, #2b2fff);
+  background-image: -moz-linear-gradient(top, #06168f, #2b2fff);
+  background-image: -ms-linear-gradient(top, #06168f, #2b2fff);
+  background-image: -o-linear-gradient(top, #06168f, #2b2fff);
+  background-image: linear-gradient(to bottom, #06168f, #2b2fff);
+  -webkit-border-radius: 10;
+  -moz-border-radius: 10;
+  border-radius: 10px;
+  font-family: Arial;
+  color: #f7f8fa;
+  font-size: 12px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
